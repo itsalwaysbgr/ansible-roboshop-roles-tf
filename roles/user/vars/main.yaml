@@ -1,2 +1,2 @@
-REDIS_HOST: redis.daws86s.site
-MONGODB_HOST: mongodb.daws86s.site
+REDIS_HOST: redis-{{ evn }}.daws86s.site
+MONGODB_HOST: mongodb-{{ env }}.daws86s.site

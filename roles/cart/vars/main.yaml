@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.daws86s.site
-REDIS_HOST: redis.daws86s.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.daws86s.site
+REDIS_HOST: redis-{{ env }}.daws86s.site
